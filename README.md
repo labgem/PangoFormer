@@ -19,7 +19,7 @@ The objective of this work is to adapt and evaluate Bacformer for the analysis o
 
 **Dataset:** Acinetobacter baylyi pangenome (21 genomes from PanGBank)
 
-**Objective:** Extend the approach to pangenome-scale data and explore challenges related to scaling the model to larger and more diverse genomic datasets.
+**Objective:** Extend the approach to pangenome-scale data and explore challenges related to scaling the model to larger genomic datasets.
 
 # Reference
 [1] Wiatrak M et al. bioRxiv. 2025. doi:10.1101/2025.07.20.665723.
