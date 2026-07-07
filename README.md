@@ -1,7 +1,7 @@
 # PangoFormer
 ## Bacformer for Pangenome Analysis
 <p align="justify">
-Recent advances in genomic foundation models have opened new opportunities for representing bacterial genomes through contextualized protein embeddings. Building upon Bacformer, a transformer-based genomic language model, this project investigates its application to pangenome analysis.
+Recent advances in genomic foundation models have opened new opportunities for representing bacterial genomes through contextualized protein embeddings. Building upon Bacformer [1], a transformer-based genomic language model, this project investigates its application to pangenome analysis.
 </p>
 
 ## Overview
